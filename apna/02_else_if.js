@@ -34,6 +34,6 @@ else if (color === "yellow") {
     console.log("Color is Yellow, please Slow Down!"); 
 }
 else if (color === "green") {
-    console.log("Color is Green, You can go now");
-    
+    console.log("Color is Green,You can go now");
+  
 }
