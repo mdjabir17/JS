@@ -21,3 +21,19 @@ else if (marks >= 33) {
 else if (marks < 33) {
     console.log("Better Luck!");
 }
+
+console.log("Simple Traffic Light System:-- ");
+
+let color = "yellow";
+
+if (color === "red") {
+    console.log("Color is Red, please Stop!");
+    
+}
+else if (color === "yellow") {
+    console.log("Color is Yellow, please Slow Down!"); 
+}
+else if (color === "green") {
+    console.log("Color is Green, You can go now");
+    
+}
