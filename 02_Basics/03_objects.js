@@ -19,7 +19,9 @@ console.log(personalDetails[mySym]);
 
 Object.freeze(personalDetails);
 personalDetails.age = 28;  // can't change because of freeze statement
+
 personalDetails.email = "jabirkhorajiya@google.com" //can't change because of freeze statement
+
 console.log(personalDetails);
 
 
