@@ -1,3 +1,5 @@
+console.warn("DANGER!");
+console.error("WRONG PASSWORD!");
 let color = "green";
 
 switch (color) {
